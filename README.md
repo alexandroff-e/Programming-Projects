@@ -17,6 +17,5 @@ Statistical analysis of experimental data (namely the rate at which a droplet on
 
 Independent summer project in which Monte Carlo methods are used to simulate the behavior of magnets subject to external conditions such as temperature. The evolution of these simulations are visualized as gifs using matplotlib.
 
-
-
+<br><br>
 Specific descriptions of each project can be found in the relevant notebooks.
