@@ -13,9 +13,10 @@ Numerical integration is used to simulate the motion of a harmonic oscillator (e
 
 Statistical analysis of experimental data (namely the rate at which a droplet on a surface spreads out as a function of its radius), including model-fitting by linear regression and error analysis.
 
-### Summer Project - The Ising Model and The Metropolis Algorithm:
+### 4. Summer Project - The Ising Model and The Metropolis Algorithm:
 
 Independent summer project in which Monte Carlo methods are used to simulate the behavior of magnets subject to external conditions such as temperature. The evolution of these simulations are visualized as gifs using matplotlib.
+
 
 
 Specific descriptions of each project can be found in the relevant notebooks.
