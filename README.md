@@ -1,2 +1,2 @@
 # Programming-Projects
-A repository of some of my relevant programming projects
+A repository of some of my relevant programming projects. These range from statistical analysis of experimental data to numerical and Monte Carlo simulations. Although all the projects relate to physics in some way, they all contain programming and data analysis techniques that can be employed outside of the physical sciences. Specific descriptions of each project can be found in the relevant notebooks.
